@@ -1,4 +1,4 @@
-### Hi! My namei is Rafael Bamberg  👋
+### Hi! My name is Rafael Bamberg  👋
 - 🌱 I’m currently learning Front-End
 - 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: raafaelbamberg@gmail.com
