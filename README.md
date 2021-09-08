@@ -5,7 +5,8 @@
  
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBamberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBamberg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="200" align="right" src="https://github.com/RafaelBamberg/bamberg-repo/blob/main/giphy.gif" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +15,6 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Rafa-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img height="90" align="center" src="https://github.com/RafaelBamberg/bamberg-repo/blob/main/giphy.gif" />
 </div>
   
   ##
