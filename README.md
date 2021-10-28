@@ -1,7 +1,6 @@
-### Hi! My name is Rafael Bamberg  👋
-- 🌱 I’m currently learning Front-End
-- 👯 I’m looking to collaborate on React Projects
-- 📫 How to reach me: raafaelbamberg@gmail.com
+### Oi! Meu nome é Rafael Bamberg  👋
+- 🌱 Estudante Full-stack Web Trybe
+- 📫 Contato: raafaelbamberg@gmail.com
  
  <div>
   <a href="https://github.com/RafaelBamberg">
