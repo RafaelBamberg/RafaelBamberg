@@ -1,6 +1,6 @@
 ### Oi! Meu nome é Rafael Bamberg  👋
 - 🌱 Estudante Full-stack Web Trybe
-- 🌱 Atualmente estudando Back-end (SQL)
+- ⚠️ Atualmente estudando Back-end (SQL)
 - 📫 Contato: raafaelbamberg@gmail.com
  
  <div>
