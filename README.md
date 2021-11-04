@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/RafaelBamberg">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RafaelBamberg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="170" width="400" align="right" src="https://github.com/RafaelBamberg/bamberg-repo/blob/main/original.gif" />
+   <img height="170" width="400" align="right" src="https://github.com/RafaelBamberg/bamberg-repo/blob/main/cyberpunk.gif" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
