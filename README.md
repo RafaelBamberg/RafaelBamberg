@@ -2,7 +2,7 @@
 - 🌱 Estudante Full-stack Web Trybe
 - ⚠️ Atualmente estudando Back-end (SQL)
 - 📫 Contato: raafaelbamberg@gmail.com
-- &#127750; Portfolio: <a href="rafaelbamberg.github.io">rafaelbamberg.github.io</a>
+- &#127750; [Portfolio](https://rafaelbamberg.github.io/)
  
  <div>
   <a href="https://github.com/RafaelBamberg">
