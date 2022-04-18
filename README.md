@@ -1,6 +1,4 @@
 ### Oi! Meu nome é Rafael Bamberg  👋
-- 🌱 Estudante Full-stack Web Trybe
-- ⚠️ Atualmente estudando Back-end (Node.js)
 - &#127750; [Portfolio](https://rafaelbamberg.github.io/)
  
  <div>
