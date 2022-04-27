@@ -1,6 +1,4 @@
-### Oi! Meu nome é Rafael Bamberg  👋
-- &#127750; [Portfolio](https://rafaelbamberg.github.io/)
- 
+### Oi! Meu nome é Rafael Bamberg  👋 
  <div>
   <a href="https://github.com/RafaelBamberg">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RafaelBamberg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
