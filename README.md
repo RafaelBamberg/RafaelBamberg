@@ -14,8 +14,6 @@
   <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="Rafa-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-   <img align="center" alt="Rafa-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img align="center" alt="Rafa-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
