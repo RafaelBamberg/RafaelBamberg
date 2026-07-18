@@ -1,7 +1,7 @@
 ### Oi! Meu nome é Rafael Bamberg  👋 
    <img height="165" width="400" align="right" src="https://github.com/RafaelBamberg/bamberg-repo/blob/main/cyberpunk.gif" />
  <div>
-  <a href="https://github.com/RafaelBamberg">
+  <a href="[https://github.com/RafaelBamberg](https://github.com/RafaelBamberg)">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RafaelBamberg&show_icons=true&theme=radical" />
 </div>
 <div style="display: inline_block"><br>
